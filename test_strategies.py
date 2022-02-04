@@ -32,7 +32,7 @@ for run_no in range(SIMULATION_RUNS):
             non_random_score += 1
     non_random_answer_scores_array.append(non_random_score)
 
-    # Take the tust using random answers for each question
+    # Take the test using random answers for each question
     random_score = 0
     for x in test_answers:
         if x == random.randrange(ANSWER_OPTIONS):
