@@ -1,0 +1,1 @@
+A friend asked if choosing the same answer for each question on a multiple choice exam (e.g. choosing 'C' for each answer) would yield better results than choosing answers at random for each question. This code demonstrates that, on average, both strategies yield the same result.
